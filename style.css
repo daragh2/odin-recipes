@@ -1,0 +1,42 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #F2DFCE;
+}
+
+.main-title {
+    font-size: larger;
+    font-weight: bolder;
+    color: blue;
+}
+.headings {
+    color: green;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+/* tagliatelle.html */
+
+.bold {
+    font-weight: bold;
+}
+
+.steps {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.steps.test {
+    color: red;
+}
+
+.image {
+    width: 310;
+    height: 310;
+}
+
